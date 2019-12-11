@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Barlow|Source+Sans+Pro&display=swap');
+
+
+
+.with-image{
+    background-image: url("bgmoss.png");
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+}
+
+.flex-wrapper {
+    position: absolute;
+    left: 471px;
+    top: 253px;
+    width: 338px;
+    height: 72px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 840;
+    font-size: 48px;
+    line-height: 72px;
+    color: #FFFFFF;
+}
+
+.color {
+    position: absolute;
+    background: #FF6E40;
+    right: 65%;
+}
+
+.description {
+    position: absolute;
+    width: 520px;
+    height: 36px;
+    left: 380px;
+    top: 325px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.line {
+    position: absolute;
+    width: 195px;
+    height: 55px;
+    left: 542px;
+    top: 411px;
+    background: #E67E22;
+    border-radius: 100px;
+}
+
+.flex-from {
+    position: absolute;
+    width: 114px;
+    height: 36px;
+    left: 582px;
+    top: 421px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+
+}
+
+.text {
+    position: absolute;
+    height: 36px;
+    left: 73px;
+    top: 51px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.calendar {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 1160px;
+    top: 51px;
+}
+
+.icon/.action/.calender {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 22.92%;
+    bottom: 22.92%;
+
+    background: #E67E22;
+}
+
